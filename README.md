@@ -59,10 +59,34 @@ This guide outlines the lifecycle of a ticket from intake to resolution within t
 </p>
 <br />
 
-<h3>&#9313; Working the Issue</h3>
+<h3>&#9314; Working the Issue</h3>
 
 <p>
 
-- While working the issue, support agent(John Doe) should constantly be updating the ticket thread with what has been 
+- While working the issue, support agent(John Doe) should constantly be updating the ticket thread with troubleshooting that has been done, and any new information that has been obtained
+<img src="https://i.imgur.com/agqPTqr.png" height="80%" width="80%" alt="Ticket thread"/>
   
 </p>
+<br />
+
+<h3>&#9315; Resolution</h3>
+
+<p>
+
+- At this point, the issue has been addressed and a solution has been implemented
+- The support agent(John Doe) will now confirm with the user(Ken) that the issue has been resolved after the implementation of the solution
+- If the solution presented by the support agent(John Doe) does not fix the issue, then the support agent(John Doe) will go back to troubleshooting and working the issue to find another solution
+- Once confirmed that the solution works, support agent(John Doe) will now document any details that have not already been noted, then set the ticket status to "Closed"
+<img src="https://i.imgur.com/hX17qKk.png" height="80%" width="80%" alt="Closed tickets"/>
+  
+</p>
+
+<h2>Final Thoughts</h2>
+
+<p>
+
+This project serves as the foundation for what any IT professional that works tickets will do on a daily basis.  There will be many different scenarios that will occur on the job, but the structure and steps taken to resolve each ticket will generally be the same.  Hopefully this project helps you better understand the lifecycle of a ticket and what you can expect when working a job in this role.
+
+</p>
+
+<h2 align=center>Thank you and good luck on your future endeavours! 🎉</h2>
