@@ -39,6 +39,7 @@ This guide outlines the lifecycle of a ticket from intake to resolution within t
 
 - The intake is the first step in the ticket lifecycle
 - A user(in this case, Ken) that needs help will create a support ticket
+  - NOTE: The user is not always the one to create a ticket.  An instance when this might occur is if someone calls you with an issue, and you, as the support agent, will create a ticket on their behalf
 <img src="https://i.imgur.com/Wl0nYZ6.png" height="80%" width="80%" alt="New Ticket"/>
 
 </p>
